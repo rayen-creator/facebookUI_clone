@@ -1,6 +1,6 @@
 # Getting Started
 
-Facebook UI clone using flutter
+Facebook UI clone using flutter followed this amazing tutorial https://www.youtube.com/watch?v=HvLb5gdUfDE
 
 ## Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine:
