@@ -1,16 +1,27 @@
-# facebook_clone
+# Getting Started
 
-A new Flutter project.
+Facebook UI clone using flutter
 
-## Getting Started
+## Prerequisites
+Make sure you have installed all of the following prerequisites on your development machine:
+* Git - [Download & Install Git](https://git-scm.com/downloads). OSX and Linux machines typically have this already installed.
+* FlutterSDK 
+* IDE ( I use VSCode ) 
+<div align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,git,vscode" />
+</div>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+1. Clone the repo
+   ```sh
+   git clone https://github.com/rayen-creator/facebookUI_clone
+   ```
+2. Install packages
+   ```sh
+   flutter pub get
+   ```
+3. Run app
+   ```sh
+   flutter run
+   ```
